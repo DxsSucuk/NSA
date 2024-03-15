@@ -1,6 +1,6 @@
-# FBI
+# NSA
 
-FBI is an open source title manager for the 3DS.
+NSA is an open source title manager for the 3DS.
 
 Requires [devkitARM](https://devkitpro.org/wiki/Getting_Started), along with 3ds-curl, 3ds-zlib, and 3ds-jansson from the devkitPro pacman repository, to build.
 
